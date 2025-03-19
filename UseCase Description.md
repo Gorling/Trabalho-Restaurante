@@ -78,7 +78,8 @@ O pedido é registrado no sistema e não pode mais ser alterado.
 - Se o carrinho estiver vazio, o sistema impede a confirmação e exibe uma mensagem de erro.  
 
 ### **Nota**  
-Após a confirmação, o pedido não pode mais ser alterado, apenas cancelado ou finalizado.  
+Após a confirmação, o pedido não pode mais ser alterado, apenas cancelado ou finalizado.
+**Regra de negócio:** Adicionar 10% ao valor total, para o garçom. O cliente pode ou não pagar esses 10%.
 
 ---
 
